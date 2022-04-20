@@ -1,5 +1,4 @@
 # point-cloud-completion
-![alt text](/home/nsuresh/Documents/saga-net/snapshot.png)
 
 ### To run the code:
 #### 1) Install the requirements.txt
